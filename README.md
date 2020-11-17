@@ -1,0 +1,2 @@
+# blog
+Blog PdM (VG)
